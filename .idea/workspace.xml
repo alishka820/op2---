@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ff8e4d1-5bd7-4a76-88d9-cb14efa77b12" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Hero.pu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/урок №3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/месяц №2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hero.py" beforeDir="false" afterPath="$PROJECT_DIR$/hero.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hero.ру.py" beforeDir="false" afterPath="$PROJECT_DIR$/hero.ру.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/урок №1.py" beforeDir="false" afterPath="$PROJECT_DIR$/урок №1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +197,7 @@
       <workItem from="1722651951021" duration="16000" />
       <workItem from="1722688575913" duration="3121000" />
       <workItem from="1722777001592" duration="584000" />
-      <workItem from="1722934188824" duration="7340000" />
+      <workItem from="1722934188824" duration="8084000" />
     </task>
     <servers />
   </component>
